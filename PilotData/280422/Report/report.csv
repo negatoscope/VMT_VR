@@ -1,0 +1,6 @@
+subject;session;trial;mode;time;distance;grid_distance;grid_backtracking;status;time_stamp
+constantin;0;vr_adaptation;VR;90,78707;16,04854;8;2;success;28/04/2022 13:09
+constantin;0;vr_training;VR;360,004;480,3776;162;49;training;28/04/2022 13:16
+constantin;0;vr_maze_vr;VR;224,0715;491,4131;151;64;success;28/04/2022 13:19
+constantin;0;vr_maze_vr;VR;340,9362;741,9593;160;171;success;28/04/2022 13:25
+constantin;0;vr_maze_vr;VR;267,0333;627,6005;173;115;success;28/04/2022 13:30

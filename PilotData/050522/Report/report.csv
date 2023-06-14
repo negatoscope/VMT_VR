@@ -1,0 +1,7 @@
+subject;session;trial;mode;time;distance;grid_distance;grid_backtracking;status;time_stamp
+kubi;0;vr_adaptation;VR;92,7014;29,30147;7;13;success;05/05/2022 13:06
+kubi;0;vr_training;VR;330,0007;565,8314;81;162;training;05/05/2022 13:11
+kubi;0;vr_training;VR;330,0007;565,8314;81;162;training;05/05/2022 13:12
+kubi;0;vr_maze_vr;VR;600,0016;1347,289;207;772;fail;05/05/2022 13:22
+kubi;0;vr_maze_vr;VR;251,7767;456,5517;159;48;success;05/05/2022 13:26
+kubi;0;vr_maze_vr;VR;256,2303;589,8543;184;82;success;05/05/2022 13:30

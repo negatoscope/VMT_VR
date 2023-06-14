@@ -1,0 +1,17 @@
+Hi
+
+Thank you for purchasing this asset
+
+The tree models has about 7.000 ~ 15.000 tringles
+You can optimize using Simplygon:
+https://www.youtube.com/watch?v=naBApa0_kIk
+
+You can use your own wind shader on the tree leaf materials
+
+You can download Easy Mesh Combine tool to see the poly count(trinagles):
+https://assetstore.unity.com/packages/tools/utilities/easy-mesh-combine-tool-211915
+
+Don't forget to rate the asset
+
+My other assets:
+https://assetstore.unity.com/publishers/23606
