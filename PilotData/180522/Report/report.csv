@@ -1,7 +1,0 @@
-subject;session;trial;mode;time;distance;grid_distance;grid_backtracking;status;time_stamp
-0;vr_adaptation;VR;26,37459;51,50327;22;3;success;18/05/2022 8:38;
-f1;0;vr_adaptation;VR;207,0338;51,9052;19;2;success;18/05/2022 8:57
-f1;0;vr_training;VR;330,0125;451,4998;145;54;training;18/05/2022 9:03
-f1;0;vr_maze_vr;VR;534,4026;879,1646;171;197;success;18/05/2022 9:12
-f1;0;vr_maze_vr;VR;600,0131;971,2256;160;243;fail;18/05/2022 9:22
-f1;0;vr_maze_vr;VR;446,7059;828,9235;186;168;success;18/05/2022 9:30
