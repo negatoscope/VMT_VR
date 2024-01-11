@@ -14,7 +14,7 @@ public class TransformSaver : MonoBehaviour
         Scene currentScene = SceneManager.GetActiveScene();
         if (currentScene.name == "training" || currentScene.name == "vr_training")
         {
-            sw = new StreamWriter(Application.dataPath + "/Transforms/table_" + PlayerPrefs.GetString("id") + "_" + "training" + ".csv");
+            sw = new StreamWriter(Application.dataPath + "/Transforms/table_" + PlayerPrefs.GetString("id") + "_" + PlayerPrefs.GetFloat("session") + "_" + "training" + ".csv");
            
         } else
         {
@@ -36,7 +36,7 @@ public class TransformSaver : MonoBehaviour
         }
 
         //Scene currentScene = SceneManager.GetActiveScene();
-        if (currentScene.name == "training" || currentScene.name == "training_vr")
+        if (currentScene.name == "training" || currentScene.name == "vr_training")
         {
             sw.WriteLine(transform.position.x + ";" + transform.position.y + ";" + transform.position.z + ";" + transform.rotation.w + ";" + transform.rotation.x + ";" + transform.rotation.y + ";" + transform.rotation.z);
             //Debug.Log(transform.position);
